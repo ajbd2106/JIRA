@@ -1,0 +1,2 @@
+hello: world
+helloobj: {'foo': bar}
